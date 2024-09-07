@@ -1,0 +1,61 @@
+#box {
+    height: 30rem;
+    width: 45rem;
+    margin-top: 5rem;
+    margin-left: 22%;
+    background-color: aqua;
+    text-align: center;
+    border-radius: 20px;
+
+
+}
+
+#to {
+    margin-left: 5rem;
+    margin-right: 5rem;
+    font-size: 2rem;
+    font-weight: bold;
+}
+
+
+.slct {
+    height: 50px;
+    font-size: 1rem;
+    border: 2px solid black;
+    border-radius: 20px;
+    padding-top: 2rem;
+    text-align: center;
+    padding-top: 3px;
+}
+
+#ipt {
+    height: 40px;
+    width: 25rem;
+    font-size: 40px;
+    border: 2px solid black;
+    border-radius: 20px;
+    margin-top: 5rem;
+    text-align: center;
+
+}
+
+#opt {
+    height: 40px;
+    width: 25rem;
+    font-size: 40px;
+    border: 2px solid black;
+    border-radius: 20px;
+    margin-top: 1rem;
+    margin-left: 22%;
+    background-color: white;
+}
+
+
+
+#calculate {
+    margin-top: 3rem;
+    height: 3rem;
+    width: 8rem;
+    border-radius: 10px;
+    font-size: large;
+}
